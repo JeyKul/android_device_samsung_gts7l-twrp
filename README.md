@@ -1,4 +1,4 @@
-# TWRP Device Tree for Samsung Galalaxy Tab S7+ WIFI
+# TWRP Device Tree for Samsung Galalaxy Tab S7 WIFI
 
 The Galaxy Tab S7+ WIFI (codenamed _"gts7xlwifi"_) is an flagship-range Tablet from Samsung.
 
